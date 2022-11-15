@@ -8,7 +8,7 @@ app.set('views', './views');
 app.set('view engine', 'ejs'); 
 app.get('/', (req,res)=>{
     // console.log(res)
-    res.send("hello Chavva!")
+    res.send("hello jennifer!")
    
 })
 
